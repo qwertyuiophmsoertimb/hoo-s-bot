@@ -1,0 +1,60 @@
+{
+   "sample1": {
+        "coins": 5543,
+        "stats": {
+            "hp": 100,
+            "strength": 10,
+            "defense": 10,
+            "intelligence": 10,
+            "faith": 10,
+            "xp": 31
+        },
+        "level": 2,
+        "stat_points": 1,
+        "equipped_weapon": "sword",
+        "equipped_armor": "leather_armor",
+        "equipped_accessory": null,
+        "inventory": {
+            "sword": {
+                "level": 2
+            },
+            "staff": {
+                "level": 1
+            },
+            "leather_armor": {
+                "level": 1
+            }
+        },
+        "physical_damage_tracker": 0,
+        "xp": 98
+    },
+    "sample2": {
+        "coins": 1430,
+        "stats": {
+            "hp": 100,
+            "strength": 10,
+            "defense": 10,
+            "intelligence": 10,
+            "faith": 10,
+            "xp": 26
+        },
+        "level": 2,
+        "stat_points": 1,
+        "equipped_weapon": "sword",
+        "equipped_armor": "leather_armor",
+        "equipped_accessory": null,
+        "inventory": {
+            "sword": {
+                "level": 1
+            },
+            "staff": {
+                "level": 1
+            },
+            "leather_armor": {
+                "level": 1
+            }
+        },
+        "physical_damage_tracker": 0,
+        "xp": 98
+    },
+}
