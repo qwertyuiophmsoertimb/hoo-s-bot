@@ -2649,7 +2649,7 @@ def update_user_data_file():
         json.dump(user_data, user_data_file, indent=4)
 
 
-AUTHORIZED_USER_ID = 361426489700515843
+AUTHORIZED_USER_ID = hidden
 @bot.command(name="take", help="讓管理員從某位使用者身上扣除羽毛")
 async def take(ctx, member: discord.Member, amount: int):
     if ctx.author.id != AUTHORIZED_USER_ID:
